@@ -9,4 +9,4 @@ How To Run
 
 - Open Folder In VsCode
 
-- Right click on index.html and click "Open With Live Server
+- Right click on index.html and click "Open With Live Server"
