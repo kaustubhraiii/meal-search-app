@@ -247,6 +247,14 @@ body {
     opacity: 0.8s;
 }
 
+.notFound{
+    grid-template-columns: 1fr!important;
+    color: var(--tenne-tawny);
+    font-size: 1.8rem;
+    font-weight: 600;
+    width: 100%;
+}
+
 
 
 /* Media Queries */
