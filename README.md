@@ -1,5 +1,5 @@
 # meal-search-app
-A simple meal search app which allows users to search for their favorite meals by typing in the ingredients they want to use. Used MealDB API to generate the recipe results according to the ingredient.
+A simple meal search app which allows users to search the recipe for their favorite meals by typing in the ingredients they want to use. Used MealDB API to generate the recipe results according to the ingredient.
 
 Languages Used - HTML, CSS, Javascript
 
